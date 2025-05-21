@@ -26,6 +26,7 @@
 - [DevUtils](https://devutils.app/): for MacOnly: Offline Toolbox for Developers
 - [Github Copilot](https://copilot.github.com/): AI pair programmer
 - [Gitpod](https://www.gitpod.io/): a container-based development platform that puts developer experience first. Gitpod provisions ready-to-code developer environments in the cloud accessible through your browser (on your computer or tablet) and your local IDE.
+- [GoCodeo](https://github.com/jatingarg619/saas-builder): A CLI-first, open-source AI tool that builds full-stack apps in minutes using autonomous AI agents.
 - [Atomicjar](https://www.atomicjar.com/): Testcontainers Cloud
 
 ## Rollout
